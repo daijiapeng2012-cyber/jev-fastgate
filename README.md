@@ -2,6 +2,8 @@
 
 JEV FastGate 是一层给 Codex 使用的高速判断门，用来处理路由、分类、评分和验收判断。它把封闭、结构化的问题先变成可回读的判断信号；遇到开放式推理、低置信度或高风险动作时，继续交给 Codex、测试或人工复核。
 
+线上页面：[shuntian.uk/works/jev-fastgate](https://shuntian.uk/works/jev-fastgate/)
+
 ## 当前内容
 
 - `index.html`：可直接部署的单文件产品说明页。
